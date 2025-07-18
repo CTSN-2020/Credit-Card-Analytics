@@ -13,7 +13,7 @@ End-to-end Credit Card Data Analytics project based on Edulyt India’s problem 
    pip install -r requirements.txt
 
 4. Run notebook:
-   Open `notebook/edulyt_credit_analysis.ipynb` in Jupyter and run all cells.
+   Open `notebook\Edulyt_Project_01.ipynb` in Jupyter and run all cells.
 
 ## Objective:
 Analyze credit card customer data to extract insights for profit optimization in BFSI sector.
